@@ -1,0 +1,8 @@
+# artefacts
+node_modules
+dist
+logs
+
+# env
+.env
+*.env
